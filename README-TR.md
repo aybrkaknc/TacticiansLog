@@ -45,5 +45,14 @@ En güncel sürümler için [Releases](https://github.com/aybrkaknc/Tactician-s-
 - **Animasyonlar:** Framer Motion
 - **Tasarım:** Özel Vanilla CSS (Ylissean Glass Sistemi)
 
+## 📖 Projenin Hikayesi
+Her şey, bir otelde gece menajeri olarak çalıştığım sakin kış nöbetlerinde başladı. Oyun backlog'umu eritmeye karar vermiştim ki, 3070 Ti’lı bilgisayarımı yanıma almadığımı fark ettim. Elimde sadece telefon ve tabletim vardı; ben de çocukken kaçırdığım Nintendo dünyasına emülatörlerle dalmaya karar verdim. Bir yayıncıda *Fire Emblem Engage*’i görüp seriyi keşfettim ve sıra tabanlı strateji hastası biri olarak *Awakening*’e bayıldım.
+
+Bu projenin asıl kıvılcımı ise, ortak kullandığımız ChatGPT hesabından kız arkadaşım tarafından tabiri caizse "kovulmam" oldu. O, hesabı ders çalışmak için kullanırken, ben hafıza özelliklerini kullanarak botu kendime özel bir oyun asistanına çevirmiştim. Tahmin edersiniz ki, benim "gereksiz" oyun bilgilerim onun ders düzenini bozmaya başlayınca yollarımızı ayırmak zorunda kaldık.
+
+Başta sadece "meta çocuk" karakterler yapmak için gereken yetenekleri takip ettiğim basit bir metin dosyasıydı. Ancak kadro kalabalıklaştıkça işler çığrından çıktı ve ben de mesai saatlerimde Antigravity kullanarak bu uygulamayı geliştirdim. Daha önce ufak Firefox eklentileri yapmıştım ama bu benim resmi olarak ilk "vibecode" uygulamam.
+
+*Bu projeyi, insanı bazen kendi başının çaresine bakmaya zorlamanın ona neler kazandırabileceğini bana gösteren sevgilim Özge'ye ithaf ediyorum. Seni seviyorum hayatım.*
+
 ## 📄 Lisans
 Bu proje ticari olmayan bir hayran (fan) çalışmasıdır. *Fire Emblem*, Nintendo ve Intelligent Systems'ın tescilli markasıdır.
