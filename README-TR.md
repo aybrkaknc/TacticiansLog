@@ -6,6 +6,21 @@
 
 Tactician's Log, *Fire Emblem Awakening* deneyiminizi zenginleştirmek için tasarlanmış, React ve Electron tabanlı premium bir masaüstü uygulamasıdır. "Ylissean Glass" estetiğiyle oyunun atmosferini masaüstünüze taşırken, yapay zeka entegrasyonuyla kişisel strateji danışmanınız olarak hizmet verir.
 
+## 📸 Proje Önizlemesi
+
+| ![Home](public/screenshots/home.png) | ![Characters](public/screenshots/characters.png) |
+|:---:|:---:|
+| **Ana Ekran** | **Karakter Yönetimi** |
+
+| ![Genetic Lab](public/screenshots/genetic_lab.png) | ![Inventory](public/screenshots/inventory.png) |
+|:---:|:---:|
+| **Genetik Laboratuvar** | **Envanter / Mağaza** |
+
+| ![AEGIS](public/screenshots/aegis.png) | |
+|:---:|:---:|
+| **AEGIS Yapay Zeka** | |
+
+
 ## 🌟 Temel Özellikler
 
 ### 🧠 AEGIS (LucinAI) Entegrasyonu
@@ -27,19 +42,6 @@ Resmi oyun verileriyle güçlendirilmiş eksiksiz bir bilgi bankası.
 - **Kalıcı Veri:** Karakterleriniz, envanter eşyalarınız ve görevleriniz yerel olarak kaydedilir.
 - **Gelişmiş Araçlar:** Toplu işlemler, sürükle-bırak sıralama ve akıllı filtreleme özellikleri.
 
-## 📸 Galeri
-
-| **Ana Sayfa / Wiki** | **Karakterler** |
-|:---:|:---:|
-| ![Home](public/screenshots/home.png) | ![Characters](public/screenshots/characters.png) |
-
-| **Genetik Laboratuvar** | **Envanter** |
-|:---:|:---:|
-| ![Genetic Lab](public/screenshots/genetic_lab.png) | ![Inventory](public/screenshots/inventory.png) |
-
-| **AEGIS Asistanı** | |
-|:---:|:---:|
-| ![AEGIS](public/screenshots/aegis.png) | |
 
 ## 🌍 Çoklu Dil Desteği
 Dünya genelindeki tüm taktisyenler için üretildi:

@@ -6,6 +6,21 @@
 
 Tactician's Log is a premium desktop application built with React and Electron, designed to elevate your *Fire Emblem Awakening* experience. Featuring the immersive "Ylissean Glass" aesthetic, it combines deep game data with cutting-edge AI integration to serve as your personal strategic advisor.
 
+## 📸 Project Preview
+
+| ![Home](public/screenshots/home.png) | ![Characters](public/screenshots/characters.png) |
+|:---:|:---:|
+| **Immersive Home** | **Roster Management** |
+
+| ![Genetic Lab](public/screenshots/genetic_lab.png) | ![Inventory](public/screenshots/inventory.png) |
+|:---:|:---:|
+| **Genetic Lab** | **Armory / Shop** |
+
+| ![AEGIS](public/screenshots/aegis.png) | |
+|:---:|:---:|
+| **AEGIS AI Assistant** | |
+
+
 ## 🌟 Key Features
 
 ### 🧠 AEGIS (LucinAI) Integration
@@ -27,19 +42,6 @@ A complete, built-in library powered by official game data.
 - **Persistence:** All your characters, inventory items, and tasks are saved locally.
 - **Advanced Tools:** Bulk actions, drag-and-drop sorting, and intelligent filtering.
 
-## 📸 Gallery
-
-| **Home / Wiki** | **Characters** |
-|:---:|:---:|
-| ![Home](public/screenshots/home.png) | ![Characters](public/screenshots/characters.png) |
-
-| **Genetic Lab** | **Inventory** |
-|:---:|:---:|
-| ![Genetic Lab](public/screenshots/genetic_lab.png) | ![Inventory](public/screenshots/inventory.png) |
-
-| **AEGIS Assistant** | |
-|:---:|:---:|
-| ![AEGIS](public/screenshots/aegis.png) | |
 
 ## 🌍 Multilingual Support
 Built for global tacticians. Effortlessly toggle between:
