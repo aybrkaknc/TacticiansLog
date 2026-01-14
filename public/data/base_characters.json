@@ -1,0 +1,1582 @@
+[
+    {
+        "name": "Anna",
+        "class": "Trickster",
+        "level": 1,
+        "stats": {
+            "HP": 35,
+            "Str": 12,
+            "Mag": 17,
+            "Skl": 22,
+            "Spd": 21,
+            "Lck": 25,
+            "Def": 8,
+            "Res": 10
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Athena",
+        "class": "Swordmaster",
+        "level": 2,
+        "stats": {
+            "HP": 38,
+            "Str": 17,
+            "Mag": 5,
+            "Skl": 24,
+            "Spd": 27,
+            "Lck": 18,
+            "Def": 12,
+            "Res": 7
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Robin (M)",
+        "class": "Tactician",
+        "level": 1,
+        "stats": {
+            "HP": 19,
+            "Str": 6,
+            "Mag": 5,
+            "Skl": 5,
+            "Spd": 6,
+            "Lck": 4,
+            "Def": 6,
+            "Res": 4
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Robin (F)",
+        "class": "Tactician",
+        "level": 1,
+        "stats": {
+            "HP": 19,
+            "Str": 5,
+            "Mag": 6,
+            "Skl": 5,
+            "Spd": 6,
+            "Lck": 4,
+            "Def": 5,
+            "Res": 5
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Ayra",
+        "class": "Swordmaster",
+        "level": 14,
+        "stats": {
+            "HP": 48,
+            "Str": 23,
+            "Mag": 8,
+            "Skl": 37,
+            "Spd": 39,
+            "Lck": 17,
+            "Def": 15,
+            "Res": 11
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Brady",
+        "class": "Priest",
+        "level": 10,
+        "stats": {
+            "HP": 9,
+            "Str": 6,
+            "Mag": 5,
+            "Skl": 4,
+            "Spd": 2,
+            "Lck": 10,
+            "Def": 7,
+            "Res": 4
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Camus",
+        "class": "Paladin",
+        "level": 20,
+        "stats": {
+            "HP": 72,
+            "Str": 38,
+            "Mag": 21,
+            "Skl": 39,
+            "Spd": 41,
+            "Lck": 20,
+            "Def": 36,
+            "Res": 19
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Chrom",
+        "class": "Lord",
+        "level": 1,
+        "stats": {
+            "HP": 20,
+            "Str": 7,
+            "Mag": 1,
+            "Skl": 8,
+            "Spd": 8,
+            "Lck": 5,
+            "Def": 7,
+            "Res": 1
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Clive",
+        "class": "Paladin",
+        "level": 9,
+        "stats": {
+            "HP": 53,
+            "Str": 31,
+            "Mag": 3,
+            "Skl": 25,
+            "Spd": 24,
+            "Lck": 27,
+            "Def": 28,
+            "Res": 11
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Cynthia",
+        "class": "Pegasus Knight",
+        "level": 10,
+        "stats": {
+            "HP": 7,
+            "Str": 5,
+            "Mag": 2,
+            "Skl": 4,
+            "Spd": 10,
+            "Lck": 17,
+            "Def": 6,
+            "Res": 6
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Dagdar",
+        "class": "Warrior",
+        "level": 1,
+        "stats": {
+            "HP": 43,
+            "Str": 18,
+            "Mag": 1,
+            "Skl": 15,
+            "Spd": 11,
+            "Lck": 3,
+            "Def": 14,
+            "Res": 1
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Deirdre",
+        "class": "Dark Mage",
+        "level": 7,
+        "stats": {
+            "HP": 26,
+            "Str": 0,
+            "Mag": 12,
+            "Skl": 7,
+            "Spd": 9,
+            "Lck": 5,
+            "Def": 3,
+            "Res": 13
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Donnel",
+        "class": "Villager",
+        "level": 1,
+        "stats": {
+            "HP": 16,
+            "Str": 4,
+            "Mag": 0,
+            "Skl": 2,
+            "Spd": 3,
+            "Lck": 11,
+            "Def": 3,
+            "Res": 0
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Edward",
+        "class": "Myrmidon",
+        "level": 4,
+        "stats": {
+            "HP": 20,
+            "Str": 7,
+            "Mag": 1,
+            "Skl": 11,
+            "Spd": 12,
+            "Lck": 8,
+            "Def": 6,
+            "Res": 2
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Eirika",
+        "class": "Myrmidon",
+        "level": 5,
+        "stats": {
+            "HP": 19,
+            "Str": 6,
+            "Mag": 3,
+            "Skl": 9,
+            "Spd": 11,
+            "Lck": 7,
+            "Def": 5,
+            "Res": 3
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Ephraim",
+        "class": "Great Knight",
+        "level": 20,
+        "stats": {
+            "HP": 71,
+            "Str": 40,
+            "Mag": 3,
+            "Skl": 35,
+            "Spd": 33,
+            "Lck": 31,
+            "Def": 36,
+            "Res": 10
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Etzel",
+        "class": "Sorcerer",
+        "level": 11,
+        "stats": {
+            "HP": 53,
+            "Str": 7,
+            "Mag": 27,
+            "Skl": 22,
+            "Spd": 19,
+            "Lck": 18,
+            "Def": 25,
+            "Res": 19
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Eyvel",
+        "class": "Swordmaster",
+        "level": 6,
+        "stats": {
+            "HP": 41,
+            "Str": 22,
+            "Mag": 11,
+            "Skl": 33,
+            "Spd": 35,
+            "Lck": 29,
+            "Def": 14,
+            "Res": 11
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Finn",
+        "class": "Paladin",
+        "level": 12,
+        "stats": {
+            "HP": 56,
+            "Str": 28,
+            "Mag": 3,
+            "Skl": 26,
+            "Spd": 32,
+            "Lck": 29,
+            "Def": 26,
+            "Res": 14
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Flavia",
+        "class": "Hero",
+        "level": 10,
+        "stats": {
+            "HP": 48,
+            "Str": 25,
+            "Mag": 5,
+            "Skl": 28,
+            "Spd": 26,
+            "Lck": 21,
+            "Def": 23,
+            "Res": 11
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Frederick",
+        "class": "Great Knight",
+        "level": 1,
+        "stats": {
+            "HP": 28,
+            "Str": 13,
+            "Mag": 2,
+            "Skl": 12,
+            "Spd": 10,
+            "Lck": 6,
+            "Def": 14,
+            "Res": 3
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Gaius",
+        "class": "Thief",
+        "level": 5,
+        "stats": {
+            "HP": 22,
+            "Str": 7,
+            "Mag": 0,
+            "Skl": 13,
+            "Spd": 15,
+            "Lck": 6,
+            "Def": 5,
+            "Res": 2
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Gangrel",
+        "class": "Trickster",
+        "level": 15,
+        "stats": {
+            "HP": 49,
+            "Str": 21,
+            "Mag": 20,
+            "Skl": 29,
+            "Spd": 33,
+            "Lck": 15,
+            "Def": 18,
+            "Res": 17
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Geoffrey",
+        "class": "Paladin",
+        "level": 15,
+        "stats": {
+            "HP": 55,
+            "Str": 31,
+            "Mag": 11,
+            "Skl": 24,
+            "Spd": 26,
+            "Lck": 14,
+            "Def": 30,
+            "Res": 13
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Gerome",
+        "class": "Wyvern Rider",
+        "level": 10,
+        "stats": {
+            "HP": 13,
+            "Str": 8,
+            "Mag": 0,
+            "Skl": 4,
+            "Spd": 8,
+            "Lck": 5,
+            "Def": 5,
+            "Res": 1
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Gharnef",
+        "class": "Sorcerer",
+        "level": 20,
+        "stats": {
+            "HP": 60,
+            "Str": 18,
+            "Mag": 35,
+            "Skl": 34,
+            "Spd": 31,
+            "Lck": 14,
+            "Def": 29,
+            "Res": 33
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Gregor",
+        "class": "Mercenary",
+        "level": 10,
+        "stats": {
+            "HP": 30,
+            "Str": 12,
+            "Mag": 0,
+            "Skl": 13,
+            "Spd": 11,
+            "Lck": 8,
+            "Def": 10,
+            "Res": 2
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Henry",
+        "class": "Dark Mage",
+        "level": 12,
+        "stats": {
+            "HP": 28,
+            "Str": 6,
+            "Mag": 13,
+            "Skl": 14,
+            "Spd": 8,
+            "Lck": 10,
+            "Def": 12,
+            "Res": 5
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Inigo",
+        "class": "Mercenary",
+        "level": 10,
+        "stats": {
+            "HP": 11,
+            "Str": 5,
+            "Mag": 2,
+            "Skl": 4,
+            "Spd": 9,
+            "Lck": 12,
+            "Def": 4,
+            "Res": 4
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Jaffar",
+        "class": "Assassin",
+        "level": 15,
+        "stats": {
+            "HP": 52,
+            "Str": 35,
+            "Mag": 3,
+            "Skl": 40,
+            "Spd": 39,
+            "Lck": 15,
+            "Def": 28,
+            "Res": 21
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Julius",
+        "class": "Sorcerer",
+        "level": 20,
+        "stats": {
+            "HP": 75,
+            "Str": 13,
+            "Mag": 36,
+            "Skl": 30,
+            "Spd": 30,
+            "Lck": 13,
+            "Def": 39,
+            "Res": 33
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Karel",
+        "class": "Swordmaster",
+        "level": 8,
+        "stats": {
+            "HP": 38,
+            "Str": 19,
+            "Mag": 5,
+            "Skl": 34,
+            "Spd": 32,
+            "Lck": 24,
+            "Def": 16,
+            "Res": 15
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "King Marth",
+        "class": "Lodestar",
+        "level": 30,
+        "stats": {
+            "HP": 77,
+            "Str": 38,
+            "Mag": 12,
+            "Skl": 40,
+            "Spd": 41,
+            "Lck": 40,
+            "Def": 31,
+            "Res": 20
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Kjelle",
+        "class": "Knight",
+        "level": 10,
+        "stats": {
+            "HP": 10,
+            "Str": 6,
+            "Mag": 2,
+            "Skl": 6,
+            "Spd": 5,
+            "Lck": 11,
+            "Def": 3,
+            "Res": 3
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Larcei",
+        "class": "Swordmaster",
+        "level": 5,
+        "stats": {
+            "HP": 45,
+            "Str": 19,
+            "Mag": 8,
+            "Skl": 31,
+            "Spd": 28,
+            "Lck": 15,
+            "Def": 16,
+            "Res": 10
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Laurent",
+        "class": "Mage",
+        "level": 10,
+        "stats": {
+            "HP": 10,
+            "Str": 3,
+            "Mag": 7,
+            "Skl": 7,
+            "Spd": 4,
+            "Lck": 11,
+            "Def": 4,
+            "Res": 5
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Leif",
+        "class": "Trickster",
+        "level": 20,
+        "stats": {
+            "HP": 68,
+            "Str": 34,
+            "Mag": 28,
+            "Skl": 36,
+            "Spd": 38,
+            "Lck": 35,
+            "Def": 29,
+            "Res": 16
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Libra",
+        "class": "War Monk",
+        "level": 1,
+        "stats": {
+            "HP": 38,
+            "Str": 14,
+            "Mag": 15,
+            "Skl": 13,
+            "Spd": 13,
+            "Lck": 10,
+            "Def": 11,
+            "Res": 16
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Linus",
+        "class": "Hero",
+        "level": 20,
+        "stats": {
+            "HP": 68,
+            "Str": 37,
+            "Mag": 7,
+            "Skl": 38,
+            "Spd": 34,
+            "Lck": 18,
+            "Def": 28,
+            "Res": 15
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Lissa",
+        "class": "Cleric",
+        "level": 1,
+        "stats": {
+            "HP": 17,
+            "Str": 1,
+            "Mag": 5,
+            "Skl": 4,
+            "Spd": 4,
+            "Lck": 8,
+            "Def": 3,
+            "Res": 4
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Lon'qu",
+        "class": "Myrmidon",
+        "level": 4,
+        "stats": {
+            "HP": 20,
+            "Str": 6,
+            "Mag": 1,
+            "Skl": 12,
+            "Spd": 13,
+            "Lck": 7,
+            "Def": 7,
+            "Res": 2
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Lucina",
+        "class": "Lord",
+        "level": 10,
+        "stats": {
+            "HP": 12,
+            "Str": 5,
+            "Mag": 1,
+            "Skl": 8,
+            "Spd": 4,
+            "Lck": 13,
+            "Def": 3,
+            "Res": 3
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Malice",
+        "class": "Mercenary",
+        "level": 16,
+        "stats": {
+            "HP": 32,
+            "Str": 17,
+            "Mag": 5,
+            "Skl": 15,
+            "Spd": 17,
+            "Lck": 13,
+            "Def": 14,
+            "Res": 7
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Marisa",
+        "class": "Swordmaster",
+        "level": 5,
+        "stats": {
+            "HP": 38,
+            "Str": 22,
+            "Mag": 13,
+            "Skl": 31,
+            "Spd": 33,
+            "Lck": 28,
+            "Def": 14,
+            "Res": 13
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Matthew",
+        "class": "Thief",
+        "level": 17,
+        "stats": {
+            "HP": 30,
+            "Str": 13,
+            "Mag": 2,
+            "Skl": 11,
+            "Spd": 21,
+            "Lck": 9,
+            "Def": 8,
+            "Res": 2
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Mia",
+        "class": "Myrmidon",
+        "level": 14,
+        "stats": {
+            "HP": 25,
+            "Str": 10,
+            "Mag": 3,
+            "Skl": 15,
+            "Spd": 19,
+            "Lck": 12,
+            "Def": 9,
+            "Res": 4
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Morgan",
+        "class": "Varies",
+        "level": 10,
+        "stats": {
+            "HP": 9,
+            "Str": 6,
+            "Mag": 8,
+            "Skl": 7,
+            "Spd": 6,
+            "Lck": 7,
+            "Def": 3,
+            "Res": 7
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Nah",
+        "class": "Manakete",
+        "level": 10,
+        "stats": {
+            "HP": 5,
+            "Str": 3,
+            "Mag": 3,
+            "Skl": 5,
+            "Spd": 6,
+            "Lck": 8,
+            "Def": 3,
+            "Res": 3
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Nergal",
+        "class": "Sorcerer",
+        "level": 20,
+        "stats": {
+            "HP": 78,
+            "Str": 21,
+            "Mag": 40,
+            "Skl": 26,
+            "Spd": 23,
+            "Lck": 20,
+            "Def": 31,
+            "Res": 35
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Noire",
+        "class": "Archer",
+        "level": 10,
+        "stats": {
+            "HP": 8,
+            "Str": 5,
+            "Mag": 3,
+            "Skl": 4,
+            "Spd": 7,
+            "Lck": 10,
+            "Def": 4,
+            "Res": 6
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Nyna",
+        "class": "Sage",
+        "level": 1,
+        "stats": {
+            "HP": 25,
+            "Str": 1,
+            "Mag": 13,
+            "Skl": 11,
+            "Spd": 15,
+            "Lck": 18,
+            "Def": 6,
+            "Res": 14
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Ogma",
+        "class": "Hero",
+        "level": 15,
+        "stats": {
+            "HP": 58,
+            "Str": 29,
+            "Mag": 0,
+            "Skl": 34,
+            "Spd": 33,
+            "Lck": 28,
+            "Def": 24,
+            "Res": 11
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Oliver",
+        "class": "Sorcerer",
+        "level": 20,
+        "stats": {
+            "HP": 77,
+            "Str": 25,
+            "Mag": 36,
+            "Skl": 24,
+            "Spd": 23,
+            "Lck": 35,
+            "Def": 26,
+            "Res": 40
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Owain",
+        "class": "Myrmidon",
+        "level": 10,
+        "stats": {
+            "HP": 10,
+            "Str": 4,
+            "Mag": 4,
+            "Skl": 5,
+            "Spd": 6,
+            "Lck": 9,
+            "Def": 6,
+            "Res": 5
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Perceval",
+        "class": "Paladin",
+        "level": 18,
+        "stats": {
+            "HP": 62,
+            "Str": 35,
+            "Mag": 4,
+            "Skl": 26,
+            "Spd": 32,
+            "Lck": 23,
+            "Def": 33,
+            "Res": 18
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Quan",
+        "class": "Paladin",
+        "level": 12,
+        "stats": {
+            "HP": 59,
+            "Str": 33,
+            "Mag": 3,
+            "Skl": 22,
+            "Spd": 23,
+            "Lck": 5,
+            "Def": 28,
+            "Res": 10
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Raigh",
+        "class": "Dark Mage",
+        "level": 16,
+        "stats": {
+            "HP": 36,
+            "Str": 5,
+            "Mag": 17,
+            "Skl": 14,
+            "Spd": 13,
+            "Lck": 8,
+            "Def": 10,
+            "Res": 6
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Roy",
+        "class": "Hero",
+        "level": 20,
+        "stats": {
+            "HP": 64,
+            "Str": 33,
+            "Mag": 15,
+            "Skl": 36,
+            "Spd": 35,
+            "Lck": 29,
+            "Def": 27,
+            "Res": 15
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Salem",
+        "class": "Dark Mage",
+        "level": 14,
+        "stats": {
+            "HP": 31,
+            "Str": 1,
+            "Mag": 15,
+            "Skl": 12,
+            "Spd": 14,
+            "Lck": 5,
+            "Def": 8,
+            "Res": 6
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Say'ri",
+        "class": "Swordmaster",
+        "level": 1,
+        "stats": {
+            "HP": 39,
+            "Str": 17,
+            "Mag": 7,
+            "Skl": 23,
+            "Spd": 26,
+            "Lck": 20,
+            "Def": 12,
+            "Res": 10
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Severa",
+        "class": "Mercenary",
+        "level": 10,
+        "stats": {
+            "HP": 8,
+            "Str": 6,
+            "Mag": 1,
+            "Skl": 7,
+            "Spd": 6,
+            "Lck": 6,
+            "Def": 6,
+            "Res": 5
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Sophia",
+        "class": "Sorcerer",
+        "level": 3,
+        "stats": {
+            "HP": 39,
+            "Str": 2,
+            "Mag": 23,
+            "Skl": 11,
+            "Spd": 15,
+            "Lck": 9,
+            "Def": 11,
+            "Res": 25
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Sothe",
+        "class": "Trickster",
+        "level": 15,
+        "stats": {
+            "HP": 44,
+            "Str": 26,
+            "Mag": 22,
+            "Skl": 35,
+            "Spd": 31,
+            "Lck": 17,
+            "Def": 25,
+            "Res": 10
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Stahl",
+        "class": "Cavalier",
+        "level": 2,
+        "stats": {
+            "HP": 22,
+            "Str": 8,
+            "Mag": 0,
+            "Skl": 7,
+            "Spd": 6,
+            "Lck": 5,
+            "Def": 8,
+            "Res": 1
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Sully",
+        "class": "Cavalier",
+        "level": 2,
+        "stats": {
+            "HP": 20,
+            "Str": 7,
+            "Mag": 1,
+            "Skl": 8,
+            "Spd": 8,
+            "Lck": 6,
+            "Def": 7,
+            "Res": 2
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Tharja",
+        "class": "Dark Mage",
+        "level": 10,
+        "stats": {
+            "HP": 25,
+            "Str": 4,
+            "Mag": 11,
+            "Skl": 5,
+            "Spd": 12,
+            "Lck": 3,
+            "Def": 10,
+            "Res": 7
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Titania",
+        "class": "Great Knight",
+        "level": 6,
+        "stats": {
+            "HP": 49,
+            "Str": 27,
+            "Mag": 12,
+            "Skl": 25,
+            "Spd": 24,
+            "Lck": 19,
+            "Def": 23,
+            "Res": 12
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Ulster",
+        "class": "Myrmidon",
+        "level": 15,
+        "stats": {
+            "HP": 36,
+            "Str": 14,
+            "Mag": 1,
+            "Skl": 20,
+            "Spd": 16,
+            "Lck": 12,
+            "Def": 13,
+            "Res": 4
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Walhart",
+        "class": "Conqueror",
+        "level": 30,
+        "stats": {
+            "HP": 71,
+            "Str": 39,
+            "Mag": 15,
+            "Skl": 33,
+            "Spd": 32,
+            "Lck": 30,
+            "Def": 35,
+            "Res": 19
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Yarne",
+        "class": "Taguel",
+        "level": 10,
+        "stats": {
+            "HP": 16,
+            "Str": 9,
+            "Mag": 1,
+            "Skl": 4,
+            "Spd": 4,
+            "Lck": 13,
+            "Def": 6,
+            "Res": 1
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Zihark",
+        "class": "Myrmidon",
+        "level": 19,
+        "stats": {
+            "HP": 33,
+            "Str": 17,
+            "Mag": 3,
+            "Skl": 20,
+            "Spd": 23,
+            "Lck": 10,
+            "Def": 13,
+            "Res": 2
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Sumia",
+        "class": "Pegasus Knight",
+        "level": 1,
+        "stats": {
+            "HP": 18,
+            "Str": 4,
+            "Mag": 3,
+            "Skl": 10,
+            "Spd": 10,
+            "Lck": 9,
+            "Def": 4,
+            "Res": 7
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Miriel",
+        "class": "Mage",
+        "level": 1,
+        "stats": {
+            "HP": 18,
+            "Str": 1,
+            "Mag": 7,
+            "Skl": 6,
+            "Spd": 6,
+            "Lck": 5,
+            "Def": 3,
+            "Res": 4
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Maribelle",
+        "class": "Troubadour",
+        "level": 3,
+        "stats": {
+            "HP": 18,
+            "Str": 1,
+            "Mag": 6,
+            "Skl": 5,
+            "Spd": 7,
+            "Lck": 9,
+            "Def": 3,
+            "Res": 7
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Panne",
+        "class": "Taguel",
+        "level": 6,
+        "stats": {
+            "HP": 26,
+            "Str": 10,
+            "Mag": 0,
+            "Skl": 13,
+            "Spd": 12,
+            "Lck": 6,
+            "Def": 9,
+            "Res": 3
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Cordelia",
+        "class": "Pegasus Knight",
+        "level": 7,
+        "stats": {
+            "HP": 22,
+            "Str": 9,
+            "Mag": 4,
+            "Skl": 14,
+            "Spd": 12,
+            "Lck": 8,
+            "Def": 8,
+            "Res": 9
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Nowi",
+        "class": "Manakete",
+        "level": 3,
+        "stats": {
+            "HP": 22,
+            "Str": 8,
+            "Mag": 4,
+            "Skl": 5,
+            "Spd": 5,
+            "Lck": 10,
+            "Def": 8,
+            "Res": 6
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Olivia",
+        "class": "Dancer",
+        "level": 1,
+        "stats": {
+            "HP": 18,
+            "Str": 4,
+            "Mag": 3,
+            "Skl": 10,
+            "Spd": 11,
+            "Lck": 10,
+            "Def": 3,
+            "Res": 3
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    },
+    {
+        "name": "Cherche",
+        "class": "Wyvern Rider",
+        "level": 3,
+        "stats": {
+            "HP": 26,
+            "Str": 12,
+            "Mag": 0,
+            "Skl": 11,
+            "Spd": 9,
+            "Lck": 7,
+            "Def": 13,
+            "Res": 1
+        },
+        "inventory": [],
+        "skills": {
+            "equipped": [],
+            "unequipped": []
+        }
+    }
+]

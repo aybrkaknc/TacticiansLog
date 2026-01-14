@@ -1,0 +1,757 @@
+{
+    "classes": [
+        {
+            "name": "Tactician",
+            "promoted": false,
+            "skills": [
+                {
+                    "name": "Veteran",
+                    "level": 1
+                },
+                {
+                    "name": "Solidarity",
+                    "level": 10
+                }
+            ]
+        },
+        {
+            "name": "Grandmaster",
+            "promoted": true,
+            "skills": [
+                {
+                    "name": "Ignis",
+                    "level": 5
+                },
+                {
+                    "name": "Rally Spectrum",
+                    "level": 15
+                }
+            ]
+        },
+        {
+            "name": "Lord",
+            "promoted": false,
+            "skills": [
+                {
+                    "name": "Dual Strike+",
+                    "level": 1
+                },
+                {
+                    "name": "Charm",
+                    "level": 10
+                }
+            ]
+        },
+        {
+            "name": "Great Lord",
+            "promoted": true,
+            "skills": [
+                {
+                    "name": "Aether",
+                    "level": 5
+                },
+                {
+                    "name": "Rightful King",
+                    "level": 15
+                }
+            ]
+        },
+        {
+            "name": "Cavalier",
+            "promoted": false,
+            "skills": [
+                {
+                    "name": "Discipline",
+                    "level": 1
+                },
+                {
+                    "name": "Outdoor Fighter",
+                    "level": 10
+                }
+            ]
+        },
+        {
+            "name": "Paladin",
+            "promoted": true,
+            "skills": [
+                {
+                    "name": "Defender",
+                    "level": 5
+                },
+                {
+                    "name": "Aegis",
+                    "level": 15
+                }
+            ]
+        },
+        {
+            "name": "Great Knight",
+            "promoted": true,
+            "skills": [
+                {
+                    "name": "Luna",
+                    "level": 5
+                },
+                {
+                    "name": "Dual Guard+",
+                    "level": 15
+                }
+            ]
+        },
+        {
+            "name": "Knight",
+            "promoted": false,
+            "skills": [
+                {
+                    "name": "Defense +2",
+                    "level": 1
+                },
+                {
+                    "name": "Indoor Fighter",
+                    "level": 10
+                }
+            ]
+        },
+        {
+            "name": "General",
+            "promoted": true,
+            "skills": [
+                {
+                    "name": "Rally Defense",
+                    "level": 5
+                },
+                {
+                    "name": "Pavise",
+                    "level": 15
+                }
+            ]
+        },
+        {
+            "name": "Myrmidon",
+            "promoted": false,
+            "skills": [
+                {
+                    "name": "Avoid +10",
+                    "level": 1
+                },
+                {
+                    "name": "Vantage",
+                    "level": 10
+                }
+            ]
+        },
+        {
+            "name": "Swordmaster",
+            "promoted": true,
+            "skills": [
+                {
+                    "name": "Astra",
+                    "level": 5
+                },
+                {
+                    "name": "Swordfaire",
+                    "level": 15
+                }
+            ]
+        },
+        {
+            "name": "Assassin",
+            "promoted": true,
+            "skills": [
+                {
+                    "name": "Lethality",
+                    "level": 5
+                },
+                {
+                    "name": "Pass",
+                    "level": 15
+                }
+            ]
+        },
+        {
+            "name": "Mercenary",
+            "promoted": false,
+            "skills": [
+                {
+                    "name": "Armsthrift",
+                    "level": 1
+                },
+                {
+                    "name": "Patience",
+                    "level": 10
+                }
+            ]
+        },
+        {
+            "name": "Hero",
+            "promoted": true,
+            "skills": [
+                {
+                    "name": "Sol",
+                    "level": 5
+                },
+                {
+                    "name": "Axebreaker",
+                    "level": 15
+                }
+            ]
+        },
+        {
+            "name": "Bow Knight",
+            "promoted": true,
+            "skills": [
+                {
+                    "name": "Rally Skill",
+                    "level": 5
+                },
+                {
+                    "name": "Bowbreaker",
+                    "level": 15
+                }
+            ]
+        },
+        {
+            "name": "Fighter",
+            "promoted": false,
+            "skills": [
+                {
+                    "name": "HP +5",
+                    "level": 1
+                },
+                {
+                    "name": "Zeal",
+                    "level": 10
+                }
+            ]
+        },
+        {
+            "name": "Warrior",
+            "promoted": true,
+            "skills": [
+                {
+                    "name": "Rally Strength",
+                    "level": 5
+                },
+                {
+                    "name": "Counter",
+                    "level": 15
+                }
+            ]
+        },
+        {
+            "name": "Barbarian",
+            "promoted": false,
+            "skills": [
+                {
+                    "name": "Despoil",
+                    "level": 1
+                },
+                {
+                    "name": "Gamble",
+                    "level": 10
+                }
+            ]
+        },
+        {
+            "name": "Berserker",
+            "promoted": true,
+            "skills": [
+                {
+                    "name": "Wrath",
+                    "level": 5
+                },
+                {
+                    "name": "Axefaire",
+                    "level": 15
+                }
+            ]
+        },
+        {
+            "name": "Archer",
+            "promoted": false,
+            "skills": [
+                {
+                    "name": "Skill +2",
+                    "level": 1
+                },
+                {
+                    "name": "Prescience",
+                    "level": 10
+                }
+            ]
+        },
+        {
+            "name": "Sniper",
+            "promoted": true,
+            "skills": [
+                {
+                    "name": "Hit Rate +20",
+                    "level": 5
+                },
+                {
+                    "name": "Bowfaire",
+                    "level": 15
+                }
+            ]
+        },
+        {
+            "name": "Thief",
+            "promoted": false,
+            "skills": [
+                {
+                    "name": "Locktouch",
+                    "level": 1
+                },
+                {
+                    "name": "Movement +1",
+                    "level": 10
+                }
+            ]
+        },
+        {
+            "name": "Trickster",
+            "promoted": true,
+            "skills": [
+                {
+                    "name": "Lucky Seven",
+                    "level": 5
+                },
+                {
+                    "name": "Acrobat",
+                    "level": 15
+                }
+            ]
+        },
+        {
+            "name": "Pegasus Knight",
+            "promoted": false,
+            "skills": [
+                {
+                    "name": "Speed +2",
+                    "level": 1
+                },
+                {
+                    "name": "Relief",
+                    "level": 10
+                }
+            ]
+        },
+        {
+            "name": "Falcon Knight",
+            "promoted": true,
+            "skills": [
+                {
+                    "name": "Rally Speed",
+                    "level": 5
+                },
+                {
+                    "name": "Lancefaire",
+                    "level": 15
+                }
+            ]
+        },
+        {
+            "name": "Dark Flier",
+            "promoted": true,
+            "skills": [
+                {
+                    "name": "Rally Movement",
+                    "level": 5
+                },
+                {
+                    "name": "Galeforce",
+                    "level": 15
+                }
+            ]
+        },
+        {
+            "name": "Wyvern Rider",
+            "promoted": false,
+            "skills": [
+                {
+                    "name": "Strength +2",
+                    "level": 1
+                },
+                {
+                    "name": "Tantivy",
+                    "level": 10
+                }
+            ]
+        },
+        {
+            "name": "Wyvern Lord",
+            "promoted": true,
+            "skills": [
+                {
+                    "name": "Quick Burn",
+                    "level": 5
+                },
+                {
+                    "name": "Swordbreaker",
+                    "level": 15
+                }
+            ]
+        },
+        {
+            "name": "Griffon Rider",
+            "promoted": true,
+            "skills": [
+                {
+                    "name": "Deliverer",
+                    "level": 5
+                },
+                {
+                    "name": "Lancebreaker",
+                    "level": 15
+                }
+            ]
+        },
+        {
+            "name": "Mage",
+            "promoted": false,
+            "skills": [
+                {
+                    "name": "Magic +2",
+                    "level": 1
+                },
+                {
+                    "name": "Focus",
+                    "level": 10
+                }
+            ]
+        },
+        {
+            "name": "Sage",
+            "promoted": true,
+            "skills": [
+                {
+                    "name": "Rally Magic",
+                    "level": 5
+                },
+                {
+                    "name": "Tomefaire",
+                    "level": 15
+                }
+            ]
+        },
+        {
+            "name": "Dark Mage",
+            "promoted": false,
+            "skills": [
+                {
+                    "name": "Hex",
+                    "level": 1
+                },
+                {
+                    "name": "Anathema",
+                    "level": 10
+                }
+            ]
+        },
+        {
+            "name": "Sorcerer",
+            "promoted": true,
+            "skills": [
+                {
+                    "name": "Vengeance",
+                    "level": 5
+                },
+                {
+                    "name": "Tomebreaker",
+                    "level": 15
+                }
+            ]
+        },
+        {
+            "name": "Dark Knight",
+            "promoted": true,
+            "skills": [
+                {
+                    "name": "Slow Burn",
+                    "level": 5
+                },
+                {
+                    "name": "Lifetaker",
+                    "level": 15
+                }
+            ]
+        },
+        {
+            "name": "Priest",
+            "promoted": false,
+            "skills": [
+                {
+                    "name": "Miracle",
+                    "level": 1
+                },
+                {
+                    "name": "Healtouch",
+                    "level": 10
+                }
+            ]
+        },
+        {
+            "name": "Cleric",
+            "promoted": false,
+            "skills": [
+                {
+                    "name": "Miracle",
+                    "level": 1
+                },
+                {
+                    "name": "Healtouch",
+                    "level": 10
+                }
+            ]
+        },
+        {
+            "name": "War Monk",
+            "promoted": true,
+            "skills": [
+                {
+                    "name": "Rally Luck",
+                    "level": 5
+                },
+                {
+                    "name": "Renewal",
+                    "level": 15
+                }
+            ]
+        },
+        {
+            "name": "War Cleric",
+            "promoted": true,
+            "skills": [
+                {
+                    "name": "Rally Luck",
+                    "level": 5
+                },
+                {
+                    "name": "Renewal",
+                    "level": 15
+                }
+            ]
+        },
+        {
+            "name": "Troubadour",
+            "promoted": false,
+            "skills": [
+                {
+                    "name": "Resistance +2",
+                    "level": 1
+                },
+                {
+                    "name": "Demoiselle",
+                    "level": 10
+                }
+            ]
+        },
+        {
+            "name": "Valkyrie",
+            "promoted": true,
+            "skills": [
+                {
+                    "name": "Rally Resistance",
+                    "level": 5
+                },
+                {
+                    "name": "Dual Support+",
+                    "level": 15
+                }
+            ]
+        },
+        {
+            "name": "Villager",
+            "promoted": false,
+            "skills": [
+                {
+                    "name": "Aptitude",
+                    "level": 1
+                },
+                {
+                    "name": "Underdog",
+                    "level": 15
+                }
+            ]
+        },
+        {
+            "name": "Dancer",
+            "promoted": false,
+            "skills": [
+                {
+                    "name": "Luck +4",
+                    "level": 1
+                },
+                {
+                    "name": "Special Dance",
+                    "level": 15
+                }
+            ]
+        },
+        {
+            "name": "Taguel",
+            "promoted": false,
+            "skills": [
+                {
+                    "name": "Even Rhythm",
+                    "level": 1
+                },
+                {
+                    "name": "Beastbane",
+                    "level": 15
+                }
+            ]
+        },
+        {
+            "name": "Manakete",
+            "promoted": false,
+            "skills": [
+                {
+                    "name": "Odd Rhythm",
+                    "level": 1
+                },
+                {
+                    "name": "Wyrmsbane",
+                    "level": 15
+                }
+            ]
+        },
+        {
+            "name": "Dread Fighter",
+            "promoted": true,
+            "skills": [
+                {
+                    "name": "Resistance +10",
+                    "level": 1
+                },
+                {
+                    "name": "Aggressor",
+                    "level": 15
+                }
+            ]
+        },
+        {
+            "name": "Bride",
+            "promoted": true,
+            "skills": [
+                {
+                    "name": "Rally Heart",
+                    "level": 1
+                },
+                {
+                    "name": "Bond",
+                    "level": 15
+                }
+            ]
+        }
+    ],
+    "skills": [
+        "Aether",
+        "Aegis",
+        "Aggressor",
+        "Anathema",
+        "Aptitude",
+        "Armsthrift",
+        "Astra",
+        "Avoid +10",
+        "Axebreaker",
+        "Axefaire",
+        "Beastbane",
+        "Bond",
+        "Bowbreaker",
+        "Bowfaire",
+        "Charm",
+        "Counter",
+        "Defense +2",
+        "Defender",
+        "Deliverer",
+        "Demoiselle",
+        "Despoil",
+        "Discipline",
+        "Dual Guard+",
+        "Dual Strike+",
+        "Dual Support+",
+        "Even Rhythm",
+        "Focus",
+        "Galeforce",
+        "Gamble",
+        "Healtouch",
+        "Hex",
+        "Hit Rate +20",
+        "HP +5",
+        "Ignis",
+        "Indoor Fighter",
+        "Lancebreaker",
+        "Lancefaire",
+        "Lethality",
+        "Lifetaker",
+        "Limit Breaker",
+        "Locktouch",
+        "Luck +4",
+        "Lucky Seven",
+        "Luna",
+        "Magic +2",
+        "Miracle",
+        "Movement +1",
+        "Odd Rhythm",
+        "Outdoor Fighter",
+        "Pass",
+        "Patience",
+        "Pavise",
+        "Prescience",
+        "Quick Burn",
+        "Rally Defense",
+        "Rally Heart",
+        "Rally Luck",
+        "Rally Magic",
+        "Rally Movement",
+        "Rally Resistance",
+        "Rally Skill",
+        "Rally Speed",
+        "Rally Spectrum",
+        "Rally Strength",
+        "Relief",
+        "Renewal",
+        "Resistance +2",
+        "Resistance +10",
+        "Rightful King",
+        "Skill +2",
+        "Slow Burn",
+        "Sol",
+        "Solidarity",
+        "Special Dance",
+        "Speed +2",
+        "Strength +2",
+        "Swordbreaker",
+        "Swordfaire",
+        "Tantivy",
+        "Tomebreaker",
+        "Tomefaire",
+        "Underdog",
+        "Vantage",
+        "Vengeance",
+        "Veteran",
+        "Wrath",
+        "Wyrmsbane",
+        "Zeal"
+    ],
+    "weaponTypes": [
+        "Sword",
+        "Lance",
+        "Axe",
+        "Bow",
+        "Tome",
+        "Staff",
+        "Dragonstone",
+        "Beaststone"
+    ],
+    "weaponRanks": [
+        "-",
+        "E",
+        "D",
+        "C",
+        "B",
+        "A",
+        "S"
+    ]
+}

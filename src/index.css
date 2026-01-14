@@ -1,0 +1,87 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --fe-primary-bg: #0a0a0a;
+  --fe-secondary-bg: #1a2332;
+  --fe-accent-gold: #EBFE6B;
+  --fe-border: rgba(235, 254, 107, 0.3);
+}
+
+@layer base {
+  body {
+    @apply bg-darkbg text-gray-200 min-h-screen overflow-hidden;
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  h1,
+  h2,
+  .title-font {
+    font-family: 'Cinzel', serif;
+    @apply tracking-wider;
+  }
+
+  h3,
+  .nav-font {
+    font-family: 'Space Grotesk', sans-serif;
+  }
+}
+
+.glass {
+  background: rgba(13, 20, 25, 0.95);
+  border: 1px solid var(--fe-border);
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.5);
+}
+
+/* ═══════════════════════════════════════════════════════════════
+   YLISSEAN SLIDER - Fire Emblem Awakening Themed Scrollbar
+   Named after the Kingdom of Ylisse
+   ═══════════════════════════════════════════════════════════════ */
+
+/* Apply to ALL scrollbars globally */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0a0a0a;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, #EBFE6B 0%, #d4e85e 100%);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, #f0ff7a 0%, #EBFE6B 100%);
+}
+
+::-webkit-scrollbar-corner {
+  background: #0a0a0a;
+}
+
+/* Firefox support */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #EBFE6B #0a0a0a;
+}
+
+/* Custom Animation: Reverse Spin */
+@keyframes spin-reverse {
+  from {
+    transform: rotate(360deg);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+.animate-spin-reverse {
+  animation: spin-reverse 1s linear infinite;
+}

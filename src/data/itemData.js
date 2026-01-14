@@ -1,0 +1,137 @@
+export const ITEM_DATA = {
+    weapons: [
+        // Swords
+        { id: 'bronze_sword', name: 'Bronze Sword', type: 'Sword', rank: 'E', might: 3, hit: 100, crit: 0, range: 1, uses: 50, worth: 350, description: 'Very reliable, but cannot land critical hits.' },
+        { id: 'iron_sword', name: 'Iron Sword', type: 'Sword', rank: 'E', might: 5, hit: 95, crit: 0, range: 1, uses: 40, worth: 520, description: 'A standard sword made of iron.' },
+        { id: 'steel_sword', name: 'Steel Sword', type: 'Sword', rank: 'D', might: 8, hit: 90, crit: 0, range: 1, uses: 35, worth: 840, description: 'A heavy sword. Harder to double attack with.' },
+        { id: 'silver_sword', name: 'Silver Sword', type: 'Sword', rank: 'B', might: 11, hit: 85, crit: 0, range: 1, uses: 30, worth: 1410, description: 'A sword crafted from precious silver.' },
+        { id: 'brave_sword', name: 'Brave Sword', type: 'Sword', rank: 'A', might: 9, hit: 80, crit: 0, range: 1, uses: 30, worth: 2100, description: 'Allows the wielder to strike twice when attacking.' },
+        { id: 'killing_edge', name: 'Killing Edge', type: 'Sword', rank: 'C', might: 6, hit: 90, crit: 30, range: 1, uses: 30, worth: 1470, description: 'Has a high critical hit rate.' },
+        { id: 'armorslayer', name: 'Armorslayer', type: 'Sword', rank: 'D', might: 8, hit: 80, crit: 0, range: 1, uses: 25, worth: 1450, description: 'Effective against armored units.' },
+        { id: 'wyrmslayer', name: 'Wyrmslayer', type: 'Sword', rank: 'D', might: 8, hit: 80, crit: 0, range: 1, uses: 25, worth: 1650, description: 'Effective against dragon units.' },
+        { id: 'rapier', name: 'Rapier', type: 'Sword', rank: 'E', might: 5, hit: 90, crit: 10, range: 1, uses: 35, worth: 1600, description: 'Effective against armor/beasts. Lord/Great Lord only.' },
+        { id: 'levin_sword', name: 'Levin Sword', type: 'Sword', rank: 'C', might: 10, hit: 80, crit: 0, range: '1-2', uses: 25, worth: 1600, description: 'Deals magic damage. Uses Magic stat.' },
+        { id: 'falchion', name: 'Falchion', type: 'Sword', rank: 'E', might: 5, hit: 80, crit: 0, range: 1, uses: '∞', worth: 0, description: 'Chrom only. Effective against dragons. Use to heal 20 HP.' },
+        { id: 'exalted_falchion', name: 'Exalted Falchion', type: 'Sword', rank: 'E', might: 15, hit: 90, crit: 10, range: 1, uses: '∞', worth: 0, description: 'Chrom only. Effective against dragons. Use to heal 20 HP.' },
+        { id: 'ragnell', name: 'Ragnell', type: 'Sword', rank: 'A', might: 15, hit: 70, crit: 0, range: '1-2', uses: 25, worth: 0, description: 'Legendary blade. Grants Def +5.' },
+        { id: 'mercurius', name: 'Mercurius', type: 'Sword', rank: 'A', might: 15, hit: 100, crit: 5, range: 1, uses: 25, worth: 0, description: 'One of the Regalia. Doubles WExp gain.' },
+        { id: 'sol_katti', name: 'Sol Katti', type: 'Sword', rank: 'D', might: 8, hit: 95, crit: 50, range: 1, uses: 30, worth: 0, description: 'Myrmidon/Swordmaster/Assassin only. Res +5.' },
+
+        // Lances
+        { id: 'bronze_lance', name: 'Bronze Lance', type: 'Lance', rank: 'E', might: 3, hit: 90, crit: 0, range: 1, uses: 50, worth: 350, description: 'Very reliable, but cannot land critical hits.' },
+        { id: 'iron_lance', name: 'Iron Lance', type: 'Lance', rank: 'E', might: 6, hit: 85, crit: 0, range: 1, uses: 40, worth: 560, description: 'A standard lance made of iron.' },
+        { id: 'steel_lance', name: 'Steel Lance', type: 'Lance', rank: 'D', might: 9, hit: 80, crit: 0, range: 1, uses: 35, worth: 910, description: 'A heavy lance. Harder to double attack with.' },
+        { id: 'silver_lance', name: 'Silver Lance', type: 'Lance', rank: 'B', might: 13, hit: 75, crit: 0, range: 1, uses: 30, worth: 1510, description: 'A lance crafted from precious silver.' },
+        { id: 'brave_lance', name: 'Brave Lance', type: 'Lance', rank: 'A', might: 10, hit: 70, crit: 0, range: 1, uses: 30, worth: 2240, description: 'Allows the wielder to strike twice when attacking.' },
+        { id: 'killer_lance', name: 'Killer Lance', type: 'Lance', rank: 'C', might: 7, hit: 80, crit: 30, range: 1, uses: 30, worth: 1600, description: 'Has a high critical hit rate.' },
+        { id: 'beast_killer', name: 'Beast Killer', type: 'Lance', rank: 'D', might: 9, hit: 70, crit: 0, range: 1, uses: 25, worth: 1600, description: 'Effective against beast units (Cavalry/Taguel).' },
+        { id: 'javelin', name: 'Javelin', type: 'Lance', rank: 'E', might: 2, hit: 80, crit: 0, range: '1-2', uses: 25, worth: 700, description: 'Allows for indirect attacks. Cannot double.' },
+        { id: 'short_spear', name: 'Short Spear', type: 'Lance', rank: 'C', might: 6, hit: 70, crit: 0, range: '1-2', uses: 20, worth: 1320, description: 'A stronger Javelin. Cannot double.' },
+        { id: 'spear', name: 'Spear', type: 'Lance', rank: 'B', might: 11, hit: 70, crit: 0, range: '1-2', uses: 20, worth: 1960, description: 'A powerful ranged lance. Cannot double.' },
+        { id: 'gradivus', name: 'Gradivus', type: 'Lance', rank: 'A', might: 19, hit: 85, crit: 5, range: '1-2', uses: 25, worth: 0, description: 'One of the Regalia. Doubles WExp gain. Use to heal.' },
+        { id: 'gae_bolg', name: 'Gáe Bolg', type: 'Lance', rank: 'A', might: 15, hit: 75, crit: 10, range: 1, uses: 25, worth: 0, description: 'Legendary lance. Def +5.' },
+
+        // Axes
+        { id: 'bronze_axe', name: 'Bronze Axe', type: 'Axe', rank: 'E', might: 4, hit: 80, crit: 0, range: 1, uses: 50, worth: 400, description: 'Very reliable, but cannot land critical hits.' },
+        { id: 'iron_axe', name: 'Iron Axe', type: 'Axe', rank: 'E', might: 7, hit: 75, crit: 0, range: 1, uses: 40, worth: 600, description: 'A standard axe made of iron.' },
+        { id: 'steel_axe', name: 'Steel Axe', type: 'Axe', rank: 'D', might: 11, hit: 70, crit: 0, range: 1, uses: 35, worth: 980, description: 'A heavy axe. Harder to double attack with.' },
+        { id: 'silver_axe', name: 'Silver Axe', type: 'Axe', rank: 'B', might: 15, hit: 65, crit: 0, range: 1, uses: 30, worth: 1620, description: 'An axe crafted from precious silver.' },
+        { id: 'brave_axe', name: 'Brave Axe', type: 'Axe', rank: 'A', might: 12, hit: 60, crit: 0, range: 1, uses: 30, worth: 2400, description: 'Allows the wielder to strike twice when attacking.' },
+        { id: 'killer_axe', name: 'Killer Axe', type: 'Axe', rank: 'C', might: 8, hit: 70, crit: 30, range: 1, uses: 30, worth: 1760, description: 'Has a high critical hit rate.' },
+        { id: 'hammer', name: 'Hammer', type: 'Axe', rank: 'D', might: 10, hit: 60, crit: 0, range: 1, uses: 25, worth: 1680, description: 'Effective against armored units.' },
+        { id: 'bolt_axe', name: 'Bolt Axe', type: 'Axe', rank: 'C', might: 14, hit: 70, crit: 0, range: '1-2', uses: 25, worth: 1840, description: 'Deals magic damage. Uses Magic stat.' },
+        { id: 'hand_axe', name: 'Hand Axe', type: 'Axe', rank: 'E', might: 3, hit: 70, crit: 0, range: '1-2', uses: 25, worth: 750, description: 'Allows for indirect attacks. Cannot double.' },
+        { id: 'short_axe', name: 'Short Axe', type: 'Axe', rank: 'C', might: 8, hit: 60, crit: 0, range: '1-2', uses: 20, worth: 1520, description: 'A stronger Hand Axe. Cannot double.' },
+        { id: 'tomahawk', name: 'Tomahawk', type: 'Axe', rank: 'B', might: 12, hit: 60, crit: 0, range: '1-2', uses: 20, worth: 2200, description: 'A powerful ranged axe. Cannot double.' },
+        { id: 'hauteclere', name: 'Hauteclere', type: 'Axe', rank: 'A', might: 21, hit: 70, crit: 5, range: 1, uses: 25, worth: 0, description: 'One of the Regalia. Doubles WExp gain. Use to heal.' },
+        { id: 'armads', name: 'Armads', type: 'Axe', rank: 'A', might: 17, hit: 75, crit: 0, range: 1, uses: 25, worth: 0, description: 'Legendary axe. Def +5.' },
+
+        // Bows
+        { id: 'bronze_bow', name: 'Bronze Bow', type: 'Bow', rank: 'E', might: 3, hit: 90, crit: 0, range: 2, uses: 50, worth: 350, description: 'Very reliable, but cannot land critical hits.' },
+        { id: 'iron_bow', name: 'Iron Bow', type: 'Bow', rank: 'E', might: 6, hit: 85, crit: 0, range: 2, uses: 40, worth: 560, description: 'A standard bow made of iron.' },
+        { id: 'steel_bow', name: 'Steel Bow', type: 'Bow', rank: 'D', might: 9, hit: 80, crit: 0, range: 2, uses: 35, worth: 910, description: 'A heavy bow. Harder to double attack with.' },
+        { id: 'silver_bow', name: 'Silver Bow', type: 'Bow', rank: 'B', might: 13, hit: 75, crit: 0, range: 2, uses: 30, worth: 1510, description: 'A bow crafted from precious silver.' },
+        { id: 'brave_bow', name: 'Brave Bow', type: 'Bow', rank: 'A', might: 10, hit: 70, crit: 0, range: 2, uses: 30, worth: 2240, description: 'Allows the wielder to strike twice when attacking.' },
+        { id: 'killer_bow', name: 'Killer Bow', type: 'Bow', rank: 'C', might: 7, hit: 80, crit: 30, range: 2, uses: 30, worth: 1600, description: 'Has a high critical hit rate.' },
+        { id: 'longbow', name: 'Longbow', type: 'Bow', rank: 'D', might: 5, hit: 70, crit: 0, range: '2-3', uses: 20, worth: 1600, description: 'Has extended range. Cannot double.' },
+        { id: 'parthia', name: 'Parthia', type: 'Bow', rank: 'A', might: 19, hit: 95, crit: 5, range: 2, uses: 25, worth: 0, description: 'One of the Regalia. Doubles WExp gain. Use to heal.' },
+        { id: 'nidhogg', name: 'Nidhogg', type: 'Bow', rank: 'A', might: 16, hit: 75, crit: 10, range: 2, uses: 25, worth: 0, description: 'Legendary bow. Lck +10.' },
+
+        // Tomes
+        { id: 'fire', name: 'Fire', type: 'Tome', rank: 'E', might: 2, hit: 90, crit: 0, range: '1-2', uses: 45, worth: 540, description: 'Standard fire magic.' },
+        { id: 'elfire', name: 'Elfire', type: 'Tome', rank: 'C', might: 6, hit: 85, crit: 0, range: '1-2', uses: 35, worth: 980, description: 'Powerful fire magic.' },
+        { id: 'arcfire', name: 'Arcfire', type: 'Tome', rank: 'B', might: 10, hit: 80, crit: 0, range: '1-2', uses: 30, worth: 1440, description: 'Very powerful fire magic.' },
+        { id: 'bolganone', name: 'Bolganone', type: 'Tome', rank: 'A', might: 14, hit: 75, crit: 0, range: '1-2', uses: 25, worth: 1900, description: 'Extremely powerful fire magic.' },
+        { id: 'thunder', name: 'Thunder', type: 'Tome', rank: 'E', might: 3, hit: 80, crit: 5, range: '1-2', uses: 45, worth: 630, description: 'Standard thunder magic. Slight crit chance.' },
+        { id: 'elthunder', name: 'Elthunder', type: 'Tome', rank: 'C', might: 7, hit: 75, crit: 5, range: '1-2', uses: 35, worth: 1120, description: 'Powerful thunder magic.' },
+        { id: 'arcthunder', name: 'Arcthunder', type: 'Tome', rank: 'B', might: 11, hit: 70, crit: 10, range: '1-2', uses: 30, worth: 1620, description: 'Very powerful thunder magic.' },
+        { id: 'thoron', name: 'Thoron', type: 'Tome', rank: 'A', might: 15, hit: 65, crit: 10, range: '1-2', uses: 25, worth: 2200, description: 'Extremely powerful thunder magic.' },
+        { id: 'wind', name: 'Wind', type: 'Tome', rank: 'E', might: 1, hit: 100, crit: 0, range: '1-2', uses: 45, worth: 450, description: 'Standard wind magic. Effective vs Fliers.' },
+        { id: 'elwind', name: 'Elwind', type: 'Tome', rank: 'C', might: 5, hit: 95, crit: 0, range: '1-2', uses: 35, worth: 840, description: 'Powerful wind magic. Effective vs Fliers.' },
+        { id: 'arcwind', name: 'Arcwind', type: 'Tome', rank: 'B', might: 9, hit: 90, crit: 0, range: '1-2', uses: 30, worth: 1320, description: 'Very powerful wind magic. Effective vs Fliers.' },
+        { id: 'rexcalibur', name: 'Rexcalibur', type: 'Tome', rank: 'A', might: 13, hit: 85, crit: 0, range: '1-2', uses: 25, worth: 1800, description: 'Extremely powerful wind magic. Effective vs Fliers.' },
+        { id: 'flux', name: 'Flux', type: 'Tome', rank: 'E', might: 5, hit: 75, crit: 0, range: '1-2', uses: 45, worth: 630, description: 'Standard dark magic.' },
+        { id: 'nosferatu', name: 'Nosferatu', type: 'Tome', rank: 'D', might: 7, hit: 65, crit: 0, range: '1-2', uses: 20, worth: 980, description: 'Absorbs HP from the enemy. Dark magic.' },
+        { id: 'ruin', name: 'Ruin', type: 'Tome', rank: 'C', might: 4, hit: 60, crit: 50, range: '1-2', uses: 20, worth: 1120, description: 'High critical hit rate. Dark magic.' },
+        { id: 'waste', name: 'Waste', type: 'Tome', rank: 'B', might: 10, hit: 45, crit: 0, range: '1-2', uses: 30, worth: 1620, description: 'Strikes twice. Dark magic.' },
+        { id: 'goetia', name: 'Goetia', type: 'Tome', rank: 'A', might: 19, hit: 75, crit: 10, range: '1-2', uses: 25, worth: 0, description: 'Legendary dark tome.' },
+        { id: 'book_of_naga', name: 'Book of Naga', type: 'Tome', rank: 'A', might: 15, hit: 80, crit: 15, range: '1-2', uses: '∞', worth: 0, description: 'Divine dragon tome. Def/Res +5. Effective vs Dragons.' },
+
+        // Stones
+        { id: 'dragonstone', name: 'Dragonstone', type: 'Stone', rank: 'E', might: 8, hit: 80, crit: 0, range: 1, uses: 50, worth: 2300, description: 'Manakete only. Str+6 Mag+4 Skl+3 Spd+2 Def+8 Res+5.' },
+        { id: 'dragonstone_plus', name: 'Dragonstone+', type: 'Stone', rank: 'B', might: 12, hit: 70, crit: 0, range: 1, uses: 30, worth: 3200, description: 'Manakete only. Str+10 Mag+6 Skl+4 Spd+3 Def+13 Res+9.' },
+        { id: 'beaststone', name: 'Beaststone', type: 'Stone', rank: 'E', might: 6, hit: 80, crit: 0, range: 1, uses: 50, worth: 2000, description: 'Taguel only. Str+3 Skl+5 Spd+5 Def+2 Lck+4.' },
+        { id: 'beaststone_plus', name: 'Beaststone+', type: 'Stone', rank: 'B', might: 10, hit: 70, crit: 0, range: 1, uses: 30, worth: 2800, description: 'Taguel only. Str+5 Skl+8 Spd+8 Def+4 Lck+6.' },
+    ],
+    staves: [
+        { id: 'heal', name: 'Heal', type: 'Staff', rank: 'E', range: 1, uses: 30, worth: 600, description: 'Restores a small amount of HP to an adjacent ally.' },
+        { id: 'mend', name: 'Mend', type: 'Staff', rank: 'D', range: 1, uses: 20, worth: 900, description: 'Restores a medium amount of HP to an adjacent ally.' },
+        { id: 'physic', name: 'Physic', type: 'Staff', rank: 'C', range: 10, uses: 10, worth: 1700, description: 'Restores HP to a distant ally.' },
+        { id: 'recover', name: 'Recover', type: 'Staff', rank: 'B', range: 1, uses: 15, worth: 2250, description: 'Fully restores an adjacent ally\'s HP.' },
+        { id: 'fortify', name: 'Fortify', type: 'Staff', rank: 'A', range: 10, uses: 5, worth: 2500, description: 'Restores HP to all allies within range.' },
+        { id: 'rescue', name: 'Rescue', type: 'Staff', rank: 'E', range: 10, uses: 5, worth: 1280, description: 'Moves a distant ally to an adjacent space.' },
+        { id: 'ward', name: 'Ward', type: 'Staff', rank: 'C', range: 1, uses: 5, worth: 1750, description: 'Increases an ally\'s Resistance by 5. Fades over turns.' },
+        { id: 'hammerne', name: 'Hammerne', type: 'Staff', rank: 'B', range: 1, uses: 1, worth: 1800, description: 'Restores weapon durability to maximum.' },
+        { id: 'goddess_staff', name: 'Goddess Staff', type: 'Staff', rank: 'A', range: 10, uses: 1, worth: 0, description: 'Fully restores HP of all allies.' },
+        { id: 'catharsis', name: 'Catharsis', type: 'Staff', rank: 'B', range: 10, uses: 10, worth: 0, description: 'Restores large amount of HP to distant ally.' },
+    ],
+    items: [
+        // Healing
+        { id: 'vulnerary', name: 'Vulnerary', type: 'Healing', uses: 3, worth: 300, description: 'Restores 10 HP.' },
+        { id: 'concoction', name: 'Concoction', type: 'Healing', uses: 3, worth: 600, description: 'Restores 20 HP.' },
+        { id: 'elixir', name: 'Elixir', type: 'Healing', uses: 3, worth: 900, description: 'Fully restores HP.' },
+
+        // Tonics
+        { id: 'hp_tonic', name: 'HP Tonic', type: 'Tonic', uses: 1, worth: 150, description: 'Max HP +5 for current battle.' },
+        { id: 'str_tonic', name: 'Strength Tonic', type: 'Tonic', uses: 1, worth: 150, description: 'Str +2 for current battle.' },
+        { id: 'mag_tonic', name: 'Magic Tonic', type: 'Tonic', uses: 1, worth: 150, description: 'Mag +2 for current battle.' },
+        { id: 'skl_tonic', name: 'Skill Tonic', type: 'Tonic', uses: 1, worth: 150, description: 'Skl +2 for current battle.' },
+        { id: 'spd_tonic', name: 'Speed Tonic', type: 'Tonic', uses: 1, worth: 150, description: 'Spd +2 for current battle.' },
+        { id: 'lck_tonic', name: 'Luck Tonic', type: 'Tonic', uses: 1, worth: 150, description: 'Lck +2 for current battle.' },
+        { id: 'def_tonic', name: 'Defense Tonic', type: 'Tonic', uses: 1, worth: 150, description: 'Def +2 for current battle.' },
+        { id: 'res_tonic', name: 'Resistance Tonic', type: 'Tonic', uses: 1, worth: 150, description: 'Res +2 for current battle.' },
+
+        // Stat Boosters
+        { id: 'seraph_robe', name: 'Seraph Robe', type: 'Stat', uses: 1, worth: 2500, description: 'Permanently increases Max HP by 5.' },
+        { id: 'energy_drop', name: 'Energy Drop', type: 'Stat', uses: 1, worth: 2500, description: 'Permanently increases Strength by 2.' },
+        { id: 'spirit_dust', name: 'Spirit Dust', type: 'Stat', uses: 1, worth: 2500, description: 'Permanently increases Magic by 2.' },
+        { id: 'secret_book', name: 'Secret Book', type: 'Stat', uses: 1, worth: 2500, description: 'Permanently increases Skill by 2.' },
+        { id: 'speedwing', name: 'Speedwing', type: 'Stat', uses: 1, worth: 2500, description: 'Permanently increases Speed by 2.' },
+        { id: 'talisman', name: 'Talisman', type: 'Stat', uses: 1, worth: 2500, description: 'Permanently increases Resistance by 2.' },
+        { id: 'dracoshield', name: 'Dracoshield', type: 'Stat', uses: 1, worth: 2500, description: 'Permanently increases Defense by 2.' },
+        { id: 'boots', name: 'Boots', type: 'Stat', uses: 1, worth: 0, description: 'Permanently increases Movement by 2.' },
+        { id: 'nagas_tear', name: 'Naga\'s Tear', type: 'Stat', uses: 1, worth: 0, description: 'HP +5, all other stats +2 permanently.' },
+
+        // Class Change
+        { id: 'master_seal', name: 'Master Seal', type: 'Class', uses: 1, worth: 2500, description: 'Promotes a Lv 10+ base unit to advanced class.' },
+        { id: 'second_seal', name: 'Second Seal', type: 'Class', uses: 1, worth: 2500, description: 'Reclasses a unit Lv 10+ to a new base class.' },
+
+        // Utility
+        { id: 'chest_key', name: 'Chest Key', type: 'Utility', uses: 1, worth: 300, description: 'Opens a chest.' },
+        { id: 'door_key', name: 'Door Key', type: 'Utility', uses: 1, worth: 300, description: 'Opens a door.' },
+        { id: 'master_key', name: 'Master Key', type: 'Utility', uses: 1, worth: 1000, description: 'Opens any door or chest.' },
+        { id: 'bullion_s', name: 'Bullion (S)', type: 'Treasure', uses: 1, worth: 1000, description: 'Sell for 1000 Gold.' },
+        { id: 'bullion_m', name: 'Bullion (M)', type: 'Treasure', uses: 1, worth: 5000, description: 'Sell for 5000 Gold.' },
+        { id: 'bullion_l', name: 'Bullion (L)', type: 'Treasure', uses: 1, worth: 10000, description: 'Sell for 10000 Gold.' },
+    ]
+};

@@ -1,0 +1,143 @@
+[
+  {
+    "name": "Robin (Avatar)",
+    "class": "Tactician",
+    "level": 1,
+    "stats": {
+      "HP": 19,
+      "Str": 6,
+      "Mag": 5,
+      "Skl": 5,
+      "Spd": 6,
+      "Lck": 4,
+      "Def": 6,
+      "Res": 4
+    },
+    "inventory": [
+      "Thunder",
+      "Bronze Sword"
+    ],
+    "rank": "Swords E, Tomes E",
+    "notes": "Main Character",
+    "skills": {
+      "equipped": [
+        "Veteran"
+      ],
+      "unequipped": []
+    },
+    "equippedSkills": [
+      "Veteran",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "weaponRanks": []
+  },
+  {
+    "name": "Chrom",
+    "class": "Lord",
+    "level": 1,
+    "stats": {
+      "HP": 20,
+      "Str": 7,
+      "Mag": 1,
+      "Skl": 8,
+      "Spd": 8,
+      "Lck": 5,
+      "Def": 7,
+      "Res": 1
+    },
+    "inventory": [
+      "Falchion",
+      "Rapier"
+    ],
+    "rank": "Swords E",
+    "notes": "Prince of Ylisse",
+    "skills": {
+      "equipped": [
+        "Dual Strike+"
+      ],
+      "unequipped": []
+    },
+    "equippedSkills": [
+      "Dual Strike+",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "weaponRanks": []
+  },
+  {
+    "name": "Lissa",
+    "class": "Cleric",
+    "level": 1,
+    "stats": {
+      "HP": 17,
+      "Str": 1,
+      "Mag": 5,
+      "Skl": 4,
+      "Spd": 4,
+      "Lck": 8,
+      "Def": 3,
+      "Res": 4
+    },
+    "inventory": [
+      "Heal"
+    ],
+    "rank": "Staves E",
+    "notes": "Chrom's Sister",
+    "skills": {
+      "equipped": [
+        "Miracle"
+      ],
+      "unequipped": []
+    },
+    "equippedSkills": [
+      "Miracle",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "weaponRanks": []
+  },
+  {
+    "name": "Frederick",
+    "class": "Great Knight",
+    "level": 1,
+    "stats": {
+      "HP": 28,
+      "Str": 13,
+      "Mag": 2,
+      "Skl": 12,
+      "Spd": 10,
+      "Lck": 6,
+      "Def": 14,
+      "Res": 3
+    },
+    "inventory": [
+      "Silver Lance",
+      "Iron Sword",
+      "Iron Axe"
+    ],
+    "rank": "Swords D, Lances B, Axes D",
+    "notes": "The Jagen",
+    "skills": {
+      "equipped": [
+        "Discipline",
+        "Outdoor Fighter"
+      ],
+      "unequipped": []
+    },
+    "equippedSkills": [
+      "Discipline",
+      "Outdoor Fighter",
+      "",
+      "",
+      ""
+    ],
+    "weaponRanks": []
+  }
+]

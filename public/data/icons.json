@@ -1,0 +1,198 @@
+[
+  {
+    "name": "Archer",
+    "file": "archer.gif"
+  },
+  {
+    "name": "Assassin",
+    "file": "assassin.gif"
+  },
+  {
+    "name": "Barbarian",
+    "file": "barbarian.gif"
+  },
+  {
+    "name": "Berserker",
+    "file": "berserker.gif"
+  },
+  {
+    "name": "Bow Knight",
+    "file": "bow_knight.gif"
+  },
+  {
+    "name": "Bride",
+    "file": "bride.gif"
+  },
+  {
+    "name": "Cavalier",
+    "file": "cavalier.gif"
+  },
+  {
+    "name": "Cleric/Priest",
+    "file": "cleric_priest.gif"
+  },
+  {
+    "name": "Conqueror",
+    "file": "conqueror.gif"
+  },
+  {
+    "name": "Dancer",
+    "file": "dancer.gif"
+  },
+  {
+    "name": "Dark Flier",
+    "file": "dark_flier.gif"
+  },
+  {
+    "name": "Dark Knight",
+    "file": "dark_knight.gif"
+  },
+  {
+    "name": "Dark Mage",
+    "file": "dark_mage.gif"
+  },
+  {
+    "name": "Dread Fighter",
+    "file": "dread_fighter.png"
+  },
+  {
+    "name": "Entombed",
+    "file": "entombed.gif"
+  },
+  {
+    "name": "Falcon Knight",
+    "file": "falcon_knight.gif"
+  },
+  {
+    "name": "Fighter",
+    "file": "fighter.gif"
+  },
+  {
+    "name": "General",
+    "file": "general.gif"
+  },
+  {
+    "name": "Grandmaster",
+    "file": "grandmaster.gif"
+  },
+  {
+    "name": "Great Knight",
+    "file": "great_knight.gif"
+  },
+  {
+    "name": "Great Lord",
+    "file": "great_lord.gif"
+  },
+  {
+    "name": "Griffon Rider",
+    "file": "griffon_rider.gif"
+  },
+  {
+    "name": "Hero",
+    "file": "hero.gif"
+  },
+  {
+    "name": "Knight",
+    "file": "knight.gif"
+  },
+  {
+    "name": "Lodestar",
+    "file": "lodestar.gif"
+  },
+  {
+    "name": "Lord",
+    "file": "lord.gif"
+  },
+  {
+    "name": "Mage",
+    "file": "mage.gif"
+  },
+  {
+    "name": "Manakete",
+    "file": "manakete.gif"
+  },
+  {
+    "name": "Mercenary",
+    "file": "mercenary.gif"
+  },
+  {
+    "name": "Myrmidon",
+    "file": "myrmidon.gif"
+  },
+  {
+    "name": "Paladin",
+    "file": "paladin.gif"
+  },
+  {
+    "name": "Pegasus Knight",
+    "file": "pegasus_knight.gif"
+  },
+  {
+    "name": "Revenant",
+    "file": "revenant.gif"
+  },
+  {
+    "name": "Sage",
+    "file": "sage.gif"
+  },
+  {
+    "name": "Sniper",
+    "file": "sniper.gif"
+  },
+  {
+    "name": "Soldier",
+    "file": "soldier.gif"
+  },
+  {
+    "name": "Sorcerer",
+    "file": "sorcerer.gif"
+  },
+  {
+    "name": "Swordmaster",
+    "file": "swordmaster.gif"
+  },
+  {
+    "name": "Tactician",
+    "file": "tactician.gif"
+  },
+  {
+    "name": "Taguel",
+    "file": "taguel.gif"
+  },
+  {
+    "name": "Thief",
+    "file": "thief.gif"
+  },
+  {
+    "name": "Trickster",
+    "file": "trickster.gif"
+  },
+  {
+    "name": "Troubadour",
+    "file": "troubadour.gif"
+  },
+  {
+    "name": "Valkyrie",
+    "file": "valkyrie.gif"
+  },
+  {
+    "name": "Villager",
+    "file": "villager.gif"
+  },
+  {
+    "name": "War Cleric/War Monk",
+    "file": "war_cleric_war_monk.gif"
+  },
+  {
+    "name": "Warrior",
+    "file": "warrior.gif"
+  },
+  {
+    "name": "Wyvern Lord",
+    "file": "wyvern_lord.gif"
+  },
+  {
+    "name": "Wyvern Rider",
+    "file": "wyvern_rider.gif"
+  }
+]
