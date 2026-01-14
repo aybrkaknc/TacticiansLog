@@ -6,6 +6,19 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+// Check for portable mode
+const exeDir = path.dirname(app.getPath('exe'));
+const portableMarkerLocal = path.join(exeDir, '.portable');
+const portableMarkerResources = path.join(process.resourcesPath, '.portable');
+
+if (fs.existsSync(portableMarkerLocal) || fs.existsSync(portableMarkerResources)) {
+  const portableDataPath = path.join(exeDir, 'tactician_data');
+  if (!fs.existsSync(portableDataPath)) {
+    fs.mkdirSync(portableDataPath);
+  }
+  app.setPath('userData', portableDataPath);
+}
+
 function createWindow() {
   const win = new BrowserWindow({
     width: 1280,
@@ -18,7 +31,9 @@ function createWindow() {
       nodeIntegration: false,
       contextIsolation: true,
     },
-    icon: path.join(__dirname, '../public/favicon.ico') // We need to check if we have an icon
+    icon: (process.env.NODE_ENV === 'development' || !app.isPackaged)
+      ? path.join(__dirname, '../public/favicon.ico')
+      : path.join(__dirname, '../dist/favicon.ico')
   });
 
   // Window Controls IPC

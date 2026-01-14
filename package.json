@@ -19,11 +19,10 @@
         "directories": {
             "output": "dist-electron"
         },
+        "compression": "maximum",
         "files": [
             "dist/**/*",
-            "dist-electron/**/*",
-            "electron/**/*",
-            "public/**/*"
+            "electron/**/*"
         ],
         "extraResources": [
             {
@@ -39,7 +38,9 @@
         },
         "nsis": {
             "oneClick": false,
-            "allowToChangeInstallationDirectory": true
+            "allowToChangeInstallationDirectory": true,
+            "artifactName": "TacticiansLog-Setup-${version}.${ext}",
+            "shortcutName": "Tactician's Log"
         }
     },
     "dependencies": {
