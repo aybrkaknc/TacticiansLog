@@ -1,5 +1,7 @@
 # Tactician's Log 🛡️⚔️👑
 
+[English] | [Türkçe](./README-TR.md)
+
 **The Ultimate Strategy Companion for Fire Emblem Awakening.**
 
 Tactician's Log is a premium desktop application built with React and Electron, designed to elevate your *Fire Emblem Awakening* experience. Featuring the immersive "Ylissean Glass" aesthetic, it combines deep game data with cutting-edge AI integration to serve as your personal strategic advisor.
