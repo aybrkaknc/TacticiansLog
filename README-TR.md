@@ -7,11 +7,11 @@
 Tactician's Log, *Fire Emblem Awakening* deneyiminizi zenginleştirmek için tasarlanmış, React ve Electron tabanlı premium bir masaüstü uygulamasıdır. "Ylissean Glass" estetiğiyle oyunun atmosferini masaüstünüze taşırken, yapay zeka entegrasyonuyla kişisel strateji danışmanınız olarak hizmet verir.
 <br><br>
 <p align="left">
-  <img src="public/screenshots/home.png" width="180" alt="Home" title="Immersive Home" />
-  <img src="public/screenshots/characters.png" width="180" alt="Characters" title="Roster Management" />
-  <img src="public/screenshots/genetic_lab.png" width="180" alt="Genetic Lab" title="Genetic Lab" />
-  <img src="public/screenshots/inventory.png" width="180" alt="Inventory" title="Armory / Shop" />
-  <img src="public/screenshots/aegis.png" width="180" alt="AEGIS" title="AEGIS AI Assistant" />
+  <img src="public/screenshots/home.png" width="170" alt="Home" title="Immersive Home" />
+  <img src="public/screenshots/characters.png" width="170" alt="Characters" title="Roster Management" />
+  <img src="public/screenshots/genetic_lab.png" width="170" alt="Genetic Lab" title="Genetic Lab" />
+  <img src="public/screenshots/inventory.png" width="170" alt="Inventory" title="Armory / Shop" />
+  <img src="public/screenshots/aegis.png" width="170" alt="AEGIS" title="AEGIS AI Assistant" />
 </p>
 
 ## 🌟 Temel Özellikler
