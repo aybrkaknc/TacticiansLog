@@ -1,4 +1,4 @@
-# Tactician's Log 🛡️⚔️👑
+# Tactician's Log 👑
 
 [English] | [Türkçe](./README-TR.md)
 <br><br>
