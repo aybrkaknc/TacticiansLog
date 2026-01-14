@@ -1,52 +1,47 @@
-# Tactician's Log
+# Tactician's Log 🛡️⚔️👑
 
-![App Banner](https://i.imgur.com/your-banner-here.png)
+**The Ultimate Strategy Companion for Fire Emblem Awakening.**
 
-The ultimate companion app for *Fire Emblem Awakening*, built with React, Electron, and the "Ylissean Glass" aesthetic. Known as **Tactician's Log**.
+Tactician's Log is a premium desktop application built with React and Electron, designed to elevate your *Fire Emblem Awakening* experience. Featuring the immersive "Ylissean Glass" aesthetic, it combines deep game data with cutting-edge AI integration to serve as your personal strategic advisor.
 
 ## 🌟 Key Features
 
-### 🛡️ The Wiki (Library)
-- **Visual Class Tree:** Interactive 4-column graph visualizing promotion paths (e.g., Tactician -> Grandmaster).
-- **Game Database:** Complete stats for Classes, Skills, Weapons, and Mechanics.
-- **Search:** Instant filtering and finding of game data.
+### 🧠 AEGIS (LucinAI) Integration
+AEGIS is not just a chatbot; it's your active strategic advisor.
+- **Deep Integration:** AEGIS can directly modify characters, manage your inventory, and set up Gene Lab pairings via natural language.
+- **Multilingual Advice:** Now supports dynamic language switching (English/Turkish), responding in the language you select for the app.
 
 ### 🧬 Genetic Lab (Pairings)
-- **Child Simulator:** Plan marriages and see the resulting child unit.
-- **Dynamic Growth:** Simulate stats at Lv 1, 10, and 20 based on class growth rates.
-- **Skill Inheritance:** Select specific skills from parents to pass down.
-- **Draft Save:** Your experiments are auto-saved, so you never lose your progress.
+Plan the future of Ylisse with our advanced inheritance simulator.
+- **Child Unit Prediction:** See exactly how parent pairings affect a child's stats and classes.
+- **Skill & Stat Inheritance:** Track inherited skills and simulate stat growths from Level 1 to 20.
 
-### ⚔️ Inventory Management (Armory)
-- **Custom Shop:** Buy/Sell weapons, staves, and items.
-- **Persistence:** Inventory is saved to your local disk.
-- **Advanced Tools:** Multi-select, Bulk Delete, and Drag & Drop sorting.
+### 🛡️ The Shepherd's Wiki
+A complete, built-in library powered by official game data.
+- **Comprehensive Data:** View base stats, valid class paths, weapon ranks, and skills for all 50+ playable characters.
+- **Ylissean Glass UI:** Immersive, high-performance interface with dynamic animations.
 
-### 🧠 AEGIS (LucinAI)
-- **AI Assistant:** Powered by context-aware AI (Gemini/OpenAI).
-- **Tactical Advice:** AEGIS knows your roster, inventory, and plans, offering specific advice.
+### ⚔️ Inventory & Task Management
+- **Persistence:** All your characters, inventory items, and tasks are saved locally.
+- **Advanced Tools:** Bulk actions, drag-and-drop sorting, and intelligent filtering.
 
-## 🚀 Installation
+## 🌍 Multilingual Support
+Built for global tacticians. Effortlessly toggle between:
+- 🇺🇸 **English**
+- 🇹🇷 **Turkish**
 
-1.  Clone the repository:
-    ```bash
-    git clone https://github.com/YOUR_USERNAME/fire-emblem-awakening-companion.git
-    ```
-2.  Install dependencies:
-    ```bash
-    npm install
-    ```
-3.  Run the app:
-    ```bash
-    npm run electron:dev
-    ```
+## � Distribution Options
+Check the [Releases](https://github.com/aybrkaknc/Tactician-s-Log/releases) page for the latest version:
+- **Installer (Setup.exe):** Standard Windows installation.
+- **Portable (Zip):** Truly standalone! Saves all your data in a local `tactician_data` folder inside the app directory—perfect for USB drives.
 
 ## 🛠️ Tech Stack
-- **Framework:** React + Vite
+- **Frontend:** React + Vite
 - **Desktop:** Electron
-- **Styling:** TailwindCSS
+- **AI:** Integrated with Gemini, OpenAI, Groq, and more.
+- **Localization:** i18next
 - **Animations:** Framer Motion
-- **Icons:** Lucide React
+- **Styling:** Custom Vanilla CSS (Ylissean Glass System)
 
 ## 📄 License
-Fan project. Fire Emblem is a trademark of Nintendo/Intelligent Systems.
+This is a non-commercial fan project. *Fire Emblem* is a trademark of Nintendo and Intelligent Systems.
