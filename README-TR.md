@@ -2,6 +2,8 @@
 
 [English](./README.md) | [Türkçe]
 
+![Tactician's Log Demo](public/images/demo.webp)
+
 **Fire Emblem Awakening İçin Kapsamlı Strateji Rehberi ve Yardımcı Uygulama.**
 
 Tactician's Log, *Fire Emblem Awakening* deneyiminizi zenginleştirmek için tasarlanmış, React ve Electron tabanlı premium bir masaüstü uygulamasıdır. "Ylissean Glass" estetiğiyle oyunun atmosferini masaüstünüze taşırken, yapay zeka entegrasyonuyla kişisel strateji danışmanınız olarak hizmet verir.
